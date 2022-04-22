@@ -6,6 +6,6 @@
 * [Prototype 2][p2]: 
 * [Prototype 3][p3]:
 
-[p1]: <docs/prototype-1/>
-[p2]: <docs/prototype-2/>
-[p3]: <docs/prototype-3/>
+[p1]: <prototype-1/>
+[p2]: <prototype-2/>
+[p3]: <prototype-3/>
