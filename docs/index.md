@@ -1,4 +1,4 @@
-# South Kitsap High School Game Design & Programming: 2021-2022
+# South Kitsap High School Game Design & Programming
 
 ## Game Prototypes
 
